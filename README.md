@@ -87,7 +87,7 @@ This project demonstrates Python's effectiveness in environmental data analysis,
 While data quality considerations emerged, the clear patterns provide a data-driven foundation for policymakers to develop coordinated national strategies, improve monitoring systems, and implement effective pollution control measures for sustainable air quality management.
 
 ---
-
-**👥 Siyara Sathar**  
+## 👥 Author
+**Siyara Sathar**  
 Data Analytics Student  
 📧 siyarasathar18@gmail.com  
