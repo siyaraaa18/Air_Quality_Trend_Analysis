@@ -4,7 +4,7 @@
 
 This project analyzes air quality trends across major Indian cities from 2015 to 2024. Using Python, the analysis identifies pollution patterns, seasonal variations, and key pollutants contributing to poor air quality. The insights from this study can help policymakers and citizens understand the state of air pollution and its potential health impacts.
 
-**🎯 Objectives**
+## 🎯 Objectives
 - Analyze the severity and distribution of AQI across major Indian cities
 - Evaluate seasonal variations and identify peak pollution periods  
 - Compare regional differences (North vs South vs West)
